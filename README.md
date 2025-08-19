@@ -1,7 +1,5 @@
-# Hi there 👋 / Merhaba 👋
 
 <h1 align="center">Hi 👋, I'm Şeyda Taşdan / Merhaba, ben Şeyda Taşdan</h1>
-
 ---
 
 ## 🚀 About Me / Hakkımda
