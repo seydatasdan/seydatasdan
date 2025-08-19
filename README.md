@@ -37,11 +37,3 @@ Here are some of my highlighted works 👇 / İşte bazı öne çıkan projeleri
 🔹 [**Yüz Duygu Tanıma (YOLO/CNN)**](#) – Görsellerden duygu sınıflandırması | Python, OpenCV, YOLO  
 
 ---
-
-## 📈 GitHub Stats / GitHub İstatistiklerim
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seydata&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seydata&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
----
