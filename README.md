@@ -1,17 +1,17 @@
+<h1 align="center">Hi 👋, I'm Şeyda Taşdan</h1>
 
-<h1 align="center">Hi 👋, I'm Şeyda Taşdan / Merhaba, ben Şeyda Taşdan</h1>
-
-## 🚀 About Me / Hakkımda
-- 🎓 Background in **Computer Engineering** / Bilgisayar Mühendisliği mezunuyum  
-- 📊 Skilled in **Python, SQL, Power BI, Data Visualization, NLP, Machine Learning** / Python, SQL, Power BI, Veri Görselleştirme, Doğal Dil İşleme, Makine Öğrenmesi alanlarında yetkinim  
-- 🌱 Currently improving my skills in **AI, Web Applications, and Data Science** / Yapay Zeka, Web Uygulamaları ve Veri Bilimi alanlarında kendimi geliştiriyorum  
-- 🎯 Aspiring Data Scientist & Analyst, currently pursuing a Master's in **Software Engineering** / Veri Bilimi ve Analitiği alanında kariyer hedefliyorum, şu anda **Yazılım Mühendisliği** yüksek lisansına devam ediyorum  
-- 🔬 Research interests: Data Science, Machine Learning, Software Development / Araştırma ilgi alanlarım: Veri Bilimi, Makine Öğrenmesi, Yazılım Geliştirme  
-- 📝 Sharing my projects, experiments, and learning journey / GitHub’da projelerimi, deneyimlerimi ve öğrenme yolculuğumu paylaşıyorum  
+## 🚀 About Me
+- 🎓 Background in **Computer Engineering**  
+- 📊 Skilled in **Python, SQL, Power BI, Data Visualization, NLP, Machine Learning**  
+- 🌱 Currently improving my skills in **AI, Web Applications, and Data Science**  
+- 🎯 Aspiring **Data Scientist & Analyst**, currently pursuing a Master's in **Software Engineering**  
+- 🔬 Research interests: **Data Science, Machine Learning, Software Development**  
+- 📝 Sharing my projects, experiments, and learning journey here on GitHub  
+- 💼 Currently working as **IT Operations Assistant** at a corporate bank  
 
 ---
 
-## 🛠️ Languages & Tools / Diller & Araçlar
+## 🛠️ Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -26,13 +26,9 @@
 
 ---
 
-## 📌 Featured Projects / Öne Çıkan Projeler
-Here are some of my highlighted works 👇 / İşte bazı öne çıkan projelerim 👇  
+## 📌 Featured Projects
+Here are some of my highlighted works 👇  
 
 🔹 [**Hospital LOS Prediction**](#) – ML models predicting patient stay duration | Python, Pandas, Scikit-learn  
-🔹 [**Hospital LOS Tahmini**](#) – Hasta yatış süresini tahmin eden makine öğrenmesi modelleri | Python, Pandas, Scikit-learn  
 
 🔹 [**Face Emotion Recognition (YOLO/CNN)**](#) – Emotion detection from images | Python, OpenCV, YOLO  
-🔹 [**Yüz Duygu Tanıma (YOLO/CNN)**](#) – Görsellerden duygu sınıflandırması | Python, OpenCV, YOLO  
-
----
